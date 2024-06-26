@@ -1,2 +1,2 @@
 # minhatabuada
-tabuada infinita
+
